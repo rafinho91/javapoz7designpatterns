@@ -8,4 +8,5 @@ public class QuizSampleRepository implements QuizRepository {
     public List<QuizQuestion> readAll() throws Exception {
         return Arrays.asList(new QuizQuestion("abc", Arrays.asList("1","2","3","4"), 'c'));
     }
+
 }
