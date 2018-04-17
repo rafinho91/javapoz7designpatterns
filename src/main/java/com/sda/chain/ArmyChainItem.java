@@ -1,13 +1,13 @@
 package com.sda.chain;
 
-public class PoliceChainItem implements ChainItem {
+public class ArmyChainItem implements ChainItem {
     @Override
     public boolean isMyResponsibility(String value) {
-        return value.contains("crime");
+        return value.contains("war");
     }
 
     @Override
     public void action(String value) {
-        System.out.println("Action for police");
+        System.out.println("Action for army");
     }
 }
