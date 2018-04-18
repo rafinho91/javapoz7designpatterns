@@ -1,0 +1,5 @@
+firstName,lastName,phoneNumber
+Szymon,Nowak,45454545
+Rafal,Drgas,8858585858
+Jarek,Sawka,484848488
+Jan,Kowalski,484848484
