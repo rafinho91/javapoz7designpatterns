@@ -1,4 +1,4 @@
-package com.sda.factory.animalas.dog;
+package com.sda.factory.animals.dog;
 
 public class York implements Dog {
     @Override

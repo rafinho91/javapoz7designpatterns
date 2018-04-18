@@ -1,7 +1,7 @@
-package com.sda.factory.animalas;
+package com.sda.factory.animals;
 
-import com.sda.factory.animalas.bird.Bird;
-import com.sda.factory.animalas.bird.BirdType;
+import com.sda.factory.animals.bird.Bird;
+import com.sda.factory.animals.bird.BirdType;
 
 public class AbstractFactoryTest {
     public static void main(String[] args) {

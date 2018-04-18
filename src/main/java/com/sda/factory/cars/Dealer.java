@@ -1,4 +1,4 @@
-package com.sda.factory;
+package com.sda.factory.cars;
 
 import java.util.HashMap;
 import java.util.Map;

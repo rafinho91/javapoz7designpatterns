@@ -1,4 +1,4 @@
-package com.sda.factory;
+package com.sda.factory.cars;
 
 public class MotorFactory {
     private ElectricMotorFactory electricMotorFactory;

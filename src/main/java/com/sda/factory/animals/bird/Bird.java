@@ -1,4 +1,4 @@
-package com.sda.factory.animalas.bird;
+package com.sda.factory.animals.bird;
 
 public interface Bird {
     void fly();

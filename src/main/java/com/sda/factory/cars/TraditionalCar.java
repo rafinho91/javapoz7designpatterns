@@ -1,4 +1,4 @@
-package com.sda.factory;
+package com.sda.factory.cars;
 
 public class TraditionalCar implements Car {
 
