@@ -1,5 +1,4 @@
-firstName,lastName,phoneNumber
-Szymon,Nowak,45454545
-Rafal,Drgas,8858585858
-Jarek,Sawka,484848488
-Jan,Kowalski,484848484
+firstName,lastName,phoneNumber,city,street,flatNumber
+Szymon,Nowak,45454545,Poznan,Polwiejska,23
+Rafal,Drgas,8858585858,Poznan,Niepodleglosci,12
+Jarek,Sawka,484848488,Warszawa,abc,17,4

@@ -4,11 +4,11 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@NoArgsConstructor
 @AllArgsConstructor
+@NoArgsConstructor
 @Data
-public class User {
-    private String firstName;
-    private String lastName;
-    private String phoneNumber;
+public class Adress {
+    private String city;
+    private String street;
+    private int flatNumber;
 }
